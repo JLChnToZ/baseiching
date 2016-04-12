@@ -1,0 +1,22 @@
+{
+  "name": "baseiching",
+  "version": "1.0.0",
+  "description": "A base64-like encoding method but it uses hexagrams in I Ching.",
+  "main": "baseiching.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JLChnToZ/baseiching.git"
+  },
+  "keywords": [
+    "base64"
+  ],
+  "author": "Jeremy Lam (JLChnToZ)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JLChnToZ/baseiching/issues"
+  },
+  "homepage": "https://github.com/JLChnToZ/baseiching#readme"
+}
